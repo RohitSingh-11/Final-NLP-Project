@@ -7,4 +7,6 @@
 6. after every thing is done (it will a lot of time to train and save the model) you can terminate every python file
 7. Now finally run only final.py file , it will load the saved model and takes input from you and gives you the predicted output
 
+if you dont want to run anything then just copy every model from model folder and put it in the same folder as final.py and run final.py , only few libraries should be installed   for it.
+
 NOTE : INSTALL THE LIBRARY USED IN THE CODE
